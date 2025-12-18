@@ -1,49 +1,59 @@
-👋 Hey, I'm Sanjana
+# 👋 Hi, I'm Sanjana  
 
-Data Analyst • Software Developer • ML & Web Engineering Enthusiast
+**Data Analyst • Software Developer • ML & Web Engineering Learner**  
 
-I build things that combine data, logic, and clean engineering. My work spans analysis, backend logic, and full-stack development. If it involves Python, automation, dashboards, or web systems, I like breaking it apart and rebuilding it better.
+I work across data, software logic, and web development — building real projects to sharpen skill, depth, and engineering mindset.  
+If it involves Python, SQL, ML basics, or full-stack code, I’m usually experimenting with it.  
 
-🚀 What I Work On
+---
 
-Data Analytics & Processing: Python, Pandas, NumPy, Excel
+## 🚀 What I Do  
 
-Machine Learning Foundations: Scikit-learn, model pipelines, evaluation
+- **Data Analytics & Processing:** Python, Pandas, NumPy, Matplotlib  
+- **Machine Learning Basics:** Scikit-learn, data prep, evaluation  
+- **Frontend Development:** HTML, CSS, JavaScript  
+- **Backend Fundamentals:** Node.js, REST structures  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code, Postman  
 
-Full-Stack Development: HTML, CSS, JavaScript, React basics
+---
 
-Backend/Logic: REST APIs, Node.js fundamentals
+## ⚙️ Tech Stack  
 
-Databases: MySQL, MongoDB
+**Languages:** Python, SQL, JavaScript  
+**Frameworks:** Node.js, Express, React (learning)  
+**Data Tools:** Pandas, NumPy, Excel, Matplotlib  
+**Databases:** MySQL, MongoDB  
+**Other:** Git, REST APIs  
 
-Tools: Git, GitHub, VS Code, Postman
+---
 
-⚙️ Technical Stack
+## 📌 Projects  
 
-Languages: Python, SQL, JavaScript
-Libraries/Frameworks: Pandas, NumPy, Scikit-learn, React, Node.js
-Data Side: Data Wrangling, Feature Prep, Visualization
-Web Side: HTML, CSS, JS, Frontend UI
-Database: MySQL, MongoDB
-Versioning: Git & GitHub
+**AI Financial Chatbot (Python)**  
+NLP + logic based chatbot to handle financial queries.  
 
-📌 Highlighted Work
+**Food Order UI App (Frontend)**  
+Responsive food ordering interface + UI styling.  
 
-AI Financial Chatbot (Python + NLP basics)
+**Customer Analysis Dashboard**  
+Data processing + visualization insights.  
 
-Customer Analytics Dashboard (Web + CSS)
+More coming as I build and learn.  
 
-Food Order UI App (Frontend project)
-More projects coming as I learn and build.
+---
 
-📈 GitHub Snapshot
+## 📈 GitHub Activity  
 
-Actively pushing new projects,learning modules, and experiments.
+Learning → Building → Committing → Improving.  
 
-📬 Contact
+---
 
-📧 Email: sanjana@gmail.com
+## 🔗 Connect  
 
-🔗 LinkedIn: (add link)
+📧 Email: sanjanamalik664@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sanjana-malik/
 
-⭐ “Learning means shipping real projects — not just collecting certificates.”
+---
+
+⭐ **“If it isn’t built, it isn’t real.”**
